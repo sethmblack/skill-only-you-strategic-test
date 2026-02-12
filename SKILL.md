@@ -1,11 +1,10 @@
 ---
 name: only-you-strategic-test
-description: Evaluate strategic initiatives by asking whether only your organization
-  can do this - if competitors can easily replicate, it's not truly strategic.
+description: Evaluate strategic initiatives by asking whether only your organization can do this - if competitors can easily replicate, it's not truly strategic.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - only-you-strategic-test
 - writing
